@@ -1,0 +1,105 @@
+*{
+	font-family: comic sans ms;
+	margin:0;
+	box-sizing: border-box;
+	color:black;
+}
+
+
+/*=============================*/
+
+#header-nav{
+	height:100px;
+	border: 2px solid black;
+	border-radius:0;
+	padding:0;
+	background-color:lightgray; 
+}
+
+#heading{
+	padding:0;
+	margin:0 0 0 10px;
+	color:black;
+	height:100px;
+}
+
+#brand-name{
+	height:100px;
+	padding:10px 20px 20px 20px;
+}
+
+h1{
+	font-weight:700;
+	color:black;
+}
+
+#toggle-button{
+margin:30px 50px auto auto;
+vertical-align: middle;
+border: 1px solid black;
+}
+
+.span-icons{
+	background-color:black;
+}
+
+.sub-heading{
+	text-align:center;
+}
+/*=============================*/
+h2{
+	font-weight:600;
+}
+/*=============================*/
+
+#content{
+	background-color: lightgray;
+	margin:50px 10px auto 10px;
+}
+
+h3{
+	font-weight:700;
+}
+
+.content-para{
+	padding:10px;
+	font-size:18px;
+}
+
+/*=============================*/
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:2px solid black;
+}
+
+/*=============================*/
+
+#nav-list{
+	margin: 0;
+	background-color: lightgray;
+}
+
+#first-item{
+	border:2px solid black;
+}
+
+#second-item{
+	border-top: 0;
+	border-right: 2px solid black;
+	border-bottom:2px solid black;
+	border-left:2px solid black;
+}
+
+#third-item{
+	border-top:0;
+	border-right:2px solid black;
+	border-bottom:2px solid black;
+	border-left:2px solid black;	
+}
+
+#nav-list a{
+	color:black;
+	text-align:center;
+	font-size:20px;
+	font-weight: 500;
+}
